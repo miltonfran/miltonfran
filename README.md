@@ -2,12 +2,15 @@
 
 <h2>👨‍💻 AWS/Linux Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Remote connection to a server in Lightsail</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Remote connection to a server in Lightsail</b>
+- <b>Launch a server in AWS</b>
+- <b>Host my personal site on AWS EC2 Instance</b>
 - <h2>Certifications</h2>
   
-- [Linux Certificate] (https://www.linkedin.com/in/antonio-francisco-085948210/details/certifications/1711879880543/single-media-viewer/?profileId=ACoAADWIZmUBSbgNAr-Bt-Q7AWW8vgqwONZ08f8)
-
+  - [Linux Certificate] (https://www.linkedin.com/in/antonio-francisco-085948210/details/certifications/1711879880543/single-media-viewer/?profileId=ACoAADWIZmUBSbgNAr-Bt-Q7AWW8vgqwONZ08f8)
+  - [Complete Bash Shell Scripting] (https://www.linkedin.com/in/antonio-francisco-085948210/details/certifications/1732575498459/single-media-viewer/?profileId=ACoAADWIZmUBSbgNAr-Bt-Q7AWW8vgqwONZ08f8)
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
