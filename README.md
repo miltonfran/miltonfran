@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 AWS/Linux Projects:</h2>
 
-- <b>Remote connection to a server in Lightsail</b>
+- [Remote connection to a server in Lightsail](https://github.com/miltonfran/Remote-connection-to-a-server-in-Lightsail)
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Remote connection to a server in Lightsail</b>
+
 - <b>Launch a server in AWS</b>
 - <b>Host my personal site on AWS EC2 Instance</b>
 - <h2>Certifications</h2>
