@@ -3,14 +3,13 @@
 <h2>👨‍💻 AWS/Linux Projects:</h2>
 
 - [Remote connection to a server in Lightsail](https://github.com/miltonfran/Remote-connection-to-a-server-in-Lightsail)
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- <b>Launch a server in AWS</b>
+- [Launch a server in AWS](https://github.com/miltonfran/Launch-a-server-in-AWS/tree/main)
 - <b>Host my personal site on AWS EC2 Instance</b>
 - <h2>Certifications</h2>
   
-  - [Linux Certificate] (https://www.linkedin.com/in/antonio-francisco-085948210/details/certifications/1711879880543/single-media-viewer/?profileId=ACoAADWIZmUBSbgNAr-Bt-Q7AWW8vgqwONZ08f8)
-  - [Complete Bash Shell Scripting] (https://www.linkedin.com/in/antonio-francisco-085948210/details/certifications/1732575498459/single-media-viewer/?profileId=ACoAADWIZmUBSbgNAr-Bt-Q7AWW8vgqwONZ08f8)
+  - [Linux Certificate] (https://res.cloudinary.com/dk3bkl3ji/image/upload/v1732926558/2ce3db64-9e75-4a1b-a8d4-d040a0a5f3db_1_izuzbb.png)
+  - [Complete Bash Shell Scripting] (https://res.cloudinary.com/dk3bkl3ji/image/upload/v1732926457/cce44a89-f79d-4036-b59c-153a16415452_1_ttim78.png)
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
