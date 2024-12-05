@@ -7,6 +7,7 @@
 - [Launch a server in AWS](https://github.com/miltonfran/Launch-a-server-in-AWS/tree/main)
 - <b>Host my personal site on AWS EC2 Instance</b>
 - [Linux System Administration Project](https://github.com/miltonfran/Linux-System-Administration-Project/tree/main)
+- - [Linux System Administration Project2]
 - <h2>Certifications</h2>
   
   - [Linux Certificate](https://res.cloudinary.com/dk3bkl3ji/image/upload/v1732926558/2ce3db64-9e75-4a1b-a8d4-d040a0a5f3db_1_izuzbb.png)
