@@ -8,7 +8,7 @@
 - [Installing Apache Web Server on AWS EC2 Instance](https://github.com/miltonfran/Installing-Apache-Web-Server-on-AWS-EC2-Instance/blob/main/README.md)
 - [Linux System Administration Project](https://github.com/miltonfran/Linux-System-Administration-Project/tree/main)
 - - [Linux System Administration Project2]
-- <h2>Certifications</h2>
+- <h2>Certificate</h2>
   
   - [Linux Certificate](https://res.cloudinary.com/dk3bkl3ji/image/upload/v1732926558/2ce3db64-9e75-4a1b-a8d4-d040a0a5f3db_1_izuzbb.png)
   - [Complete Bash Shell Scripting](https://res.cloudinary.com/dk3bkl3ji/image/upload/v1732926457/cce44a89-f79d-4036-b59c-153a16415452_1_ttim78.png)
