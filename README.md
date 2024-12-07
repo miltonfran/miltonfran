@@ -5,7 +5,7 @@
 - [Remote connection to a server in Lightsail](https://github.com/miltonfran/Remote-connection-to-a-server-in-Lightsail)
 
 - [Launch a server in AWS](https://github.com/miltonfran/Launch-a-server-in-AWS/tree/main)
-- <b>Host my personal site on AWS EC2 Instance</b>
+- <b>Installing Apache Web Server on AWS EC2 Instance</b>
 - [Linux System Administration Project](https://github.com/miltonfran/Linux-System-Administration-Project/tree/main)
 - - [Linux System Administration Project2]
 - <h2>Certifications</h2>
