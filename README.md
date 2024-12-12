@@ -3,7 +3,7 @@
 <h2>👨‍💻 AWS/Linux Projects:</h2>
 
 - [Remote connection to a server in Lightsail](https://github.com/miltonfran/Remote-connection-to-a-server-in-Lightsail)
-
+- [AWS Secure Cloud Account Setup](https://github.com/miltonfran/-AWS-Secure-Cloud-Account-Setup-/blob/main/README.md)
 - [Launch a server in AWS](https://github.com/miltonfran/Launch-a-server-in-AWS/tree/main)
 - [Installing Apache Web Server on AWS EC2 Instance](https://github.com/miltonfran/Installing-Apache-Web-Server-on-AWS-EC2-Instance/blob/main/README.md)
 - [Linux System Administration Project](https://github.com/miltonfran/Linux-System-Administration-Project/tree/main)
