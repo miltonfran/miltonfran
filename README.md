@@ -7,6 +7,7 @@
 - [Launch a server in AWS](https://github.com/miltonfran/Launch-a-server-in-AWS/tree/main)
 - [Terraform AWS EC2 Instance Deployment](https://github.com/miltonfran/Terraform-exercise1/blob/main/README.md)
 - [Terraform Variables Management Project](https://github.com/miltonfran/Terraform-Variables-Management-Project1/blob/main/README.md)
+- [Terraform Provisioning Project](https://github.com/miltonfran/Terraform-Provisioning-Project/blob/main/README.md)
 - [Installing Apache Web Server on AWS EC2 Instance](https://github.com/miltonfran/Installing-Apache-Web-Server-on-AWS-EC2-Instance/blob/main/README.md)
 - [AWS Cloud Computing for Web App Setup (Lift and Shift)]
 - [Linux System Administration Project](https://github.com/miltonfran/Linux-System-Administration-Project/tree/main)
