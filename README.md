@@ -17,6 +17,7 @@
 - [Step-by-Step: Install Chocolatey on Windows](https://github.com/miltonfran/Install-Chocolatey-for-Windows-/blob/main/README.md)
 - [Re-Achitecting Web App on AWS Cloud](https://github.com/miltonfran/Refactoring-with-AWS/tree/main).
 - [Jenkins CI/CD Pipeline - SonarQube, Docker, GitHub Webhooks on AWS](https://github.com/miltonfran/Jenkins-CI-CD-Pipeline---SonarQube-Docker-GitHub-Webhooks-on-AWS/blob/main/README.md)
+- [Install & Configure Jenkins Master-Slave On Amazon EC2 Linux](https://github.com/miltonfran/Install-Configure-Jenkins-Master-Slave-On-Amazon-EC2-Linux-/blob/main/README.md)
 - - [Linux System Administration Project2]
 - <h2>Certificate</h2>
   
