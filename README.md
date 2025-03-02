@@ -24,7 +24,7 @@
   
   - [Linux Certificate](https://res.cloudinary.com/dk3bkl3ji/image/upload/v1732926558/2ce3db64-9e75-4a1b-a8d4-d040a0a5f3db_1_izuzbb.png)
   - [Complete Bash Shell Scripting](https://res.cloudinary.com/dk3bkl3ji/image/upload/v1732926457/cce44a89-f79d-4036-b59c-153a16415452_1_ttim78.png)
-
+  - [Introduction to DevOps and Site Reliability Engineering](https://res.cloudinary.com/dk3bkl3ji/image/upload/v1740895255/Screenshot_2025-03-02_010025_np32tw.png)
 
 <h2> 🤳 Connect with me:</h2>
 
