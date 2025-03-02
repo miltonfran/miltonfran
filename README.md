@@ -20,7 +20,7 @@
 - [Re-Achitecting Web App on AWS Cloud](https://github.com/miltonfran/Refactoring-with-AWS/tree/main).
 - [Jenkins CI/CD Pipeline - SonarQube, Docker, GitHub Webhooks on AWS](https://github.com/miltonfran/Jenkins-CI-CD-Pipeline---SonarQube-Docker-GitHub-Webhooks-on-AWS/blob/main/README.md)
 - [Install & Configure Jenkins Master-Slave On Amazon EC2 Linux](https://github.com/miltonfran/Install-Configure-Jenkins-Master-Slave-On-Amazon-EC2-Linux-/blob/main/README.md)
-- - [Linux System Administration Project2]
+ - [Linux System Administration Project2]
 - <h2>Certificate</h2>
   
   - [Linux Certificate](https://res.cloudinary.com/dk3bkl3ji/image/upload/v1732926558/2ce3db64-9e75-4a1b-a8d4-d040a0a5f3db_1_izuzbb.png)
@@ -29,7 +29,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[linkedin]: www.linkedin.com/in/antonio-francisco-085948210
+- [Linkedin]:(www.linkedin.com/in/antonio-francisco-085948210)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
