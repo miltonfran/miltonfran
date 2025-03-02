@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 AWS/Linux Projects:</h2>
 
+- [Create a Google Cloud Compute Engine VM](https://github.com/miltonfran/-Create-a-Google-Cloud-Compute-Engine-VM/blob/main/README.md)
 - [Remote connection to a server in Lightsail](https://github.com/miltonfran/Remote-connection-to-a-server-in-Lightsail)
 - [AWS Secure Cloud Account Setup](https://github.com/miltonfran/-AWS-Secure-Cloud-Account-Setup-/blob/main/README.md)
 - [Launch a server in AWS](https://github.com/miltonfran/Launch-a-server-in-AWS/tree/main)
