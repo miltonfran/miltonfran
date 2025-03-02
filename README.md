@@ -24,18 +24,10 @@
   
   - [Linux Certificate](https://res.cloudinary.com/dk3bkl3ji/image/upload/v1732926558/2ce3db64-9e75-4a1b-a8d4-d040a0a5f3db_1_izuzbb.png)
   - [Complete Bash Shell Scripting](https://res.cloudinary.com/dk3bkl3ji/image/upload/v1732926457/cce44a89-f79d-4036-b59c-153a16415452_1_ttim78.png)
-  - [Introduction to DevOps and Site Reliability Engineering](https://res.cloudinary.com/dk3bkl3ji/image/upload/v1740895255/Screenshot_2025-03-02_010025_np32tw.png)
+  - [Introduction to DevOps and Site Reliability Engineering](https://res.cloudinary.com/dk3bkl3ji/image/upload/v1740895560/Screenshot_2025-03-02_010542_t47x0w.png)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: www.linkedin.com/in/antonio-francisco-085948210
 
 <!--
