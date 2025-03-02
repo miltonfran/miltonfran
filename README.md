@@ -29,7 +29,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-- [Linkedin]:(www.linkedin.com/in/antonio-francisco-085948210)
+- [Linkedin](www.linkedin.com/in/antonio-francisco-085948210)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
