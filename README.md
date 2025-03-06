@@ -4,7 +4,7 @@
 
 - [Create a Google Cloud Compute Engine VM](https://github.com/miltonfran/-Create-a-Google-Cloud-Compute-Engine-VM/blob/main/README.md)
 - [Remote connection to a server in Lightsail](https://github.com/miltonfran/Remote-connection-to-a-server-in-Lightsail)
-- [Jenkins Installation windows](https://github.com/miltonfran/Jenkins-Installation-windows/blob/main/README.md)
+- [Jenkins Installation windows](https://github.com/miltonfran/Install-Jenkins-on-Windows/blob/main/README.md)
 - [AWS Secure Cloud Account Setup](https://github.com/miltonfran/-AWS-Secure-Cloud-Account-Setup-/blob/main/README.md)
 - [Launch a server in AWS](https://github.com/miltonfran/Launch-a-server-in-AWS/tree/main)
 - [Terraform AWS EC2 Instance Deployment](https://github.com/miltonfran/Terraform-exercise1/blob/main/README.md)
