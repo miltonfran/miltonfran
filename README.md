@@ -7,6 +7,7 @@
 - [Jenkins Installation windows](https://github.com/miltonfran/Install-Jenkins-on-Windows/blob/main/README.md)
 - [AWS Secure Cloud Account Setup](https://github.com/miltonfran/-AWS-Secure-Cloud-Account-Setup-/blob/main/README.md)
 - [Launch a server in AWS](https://github.com/miltonfran/Launch-a-server-in-AWS/tree/main)
+- [Create IAM Role](https://github.com/miltonfran/create-the-IAM-role-for-employee-directory-application-/blob/main/README.md)
 - [Terraform AWS EC2 Instance Deployment](https://github.com/miltonfran/Terraform-exercise1/blob/main/README.md)
 - [Terraform Variables Management Project](https://github.com/miltonfran/Terraform-Variables-Management-Project1/blob/main/README.md)
 - [Terraform Provisioning Project](https://github.com/miltonfran/Terraform-Provisioning-Project/blob/main/README.md)
