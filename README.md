@@ -12,6 +12,7 @@
 - [Re-launching Employee Directory App](https://github.com/miltonfran/Demo-Re-launching-Employee-Directory-App/edit/main/README.md)
 - [Creating an Amazon S3 Bucket-Directory Application](https://github.com/miltonfran/Creating-an-Amazon-S3-Bucket-Employee-Directory-Application-/blob/main/README.md)
 - [Creating an Amazon DynamoDB Table Directory](https://github.com/miltonfran/Creating-an-Amazon-DynamoDB-Table/blob/main/README.md)
+- [ Amazon CloudWatch, monitoring Directory application](https://github.com/miltonfran/Amazon-CloudWatch-employee-directory-application/blob/main/README.md)
 - [Terraform AWS EC2 Instance Deployment](https://github.com/miltonfran/Terraform-exercise1/blob/main/README.md)
 - [Terraform Variables Management Project](https://github.com/miltonfran/Terraform-Variables-Management-Project1/blob/main/README.md)
 - [Terraform Provisioning Project](https://github.com/miltonfran/Terraform-Provisioning-Project/blob/main/README.md)
