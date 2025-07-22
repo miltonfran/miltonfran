@@ -34,9 +34,9 @@
   - [Complete Bash Shell Scripting](https://res.cloudinary.com/dk3bkl3ji/image/upload/v1732926457/cce44a89-f79d-4036-b59c-153a16415452_1_ttim78.png)
   - [Introduction to DevOps and Site Reliability Engineering](https://res.cloudinary.com/dk3bkl3ji/image/upload/v1740895560/Screenshot_2025-03-02_010542_t47x0w.png)
   - [Introduction to Jenkins](https://res.cloudinary.com/dk3bkl3ji/image/upload/v1742255815/Screenshot_2025-03-17_195626_pc9bbd.png)
-  - [IT Fundamentals for Business Professionals: Cybersecurity and social implications](https://res.cloudinary.com/dk3bkl3ji/image/upload/v1753199598/Screenshot_2025-07-22_115220_jyhrvn.png).
-  - [AWS Cloud Technical Essentials](https://res.cloudinary.com/dk3bkl3ji/image/upload/v1753199793/Screenshot_2025-07-22_115551_fliv8z.png).
-  - [Technical Support Basics](https://res.cloudinary.com/dk3bkl3ji/image/upload/v1753200020/Screenshot_2025-07-22_115957_wncbao.png).
+  - [IT Fundamentals for Business Professionals: Cybersecurity and social implications](https://res.cloudinary.com/dk3bkl3ji/image/upload/v1753199598/Screenshot_2025-07-22_115220_jyhrvn.png)
+  - [AWS Cloud Technical Essentials](https://res.cloudinary.com/dk3bkl3ji/image/upload/v1753199793/Screenshot_2025-07-22_115551_fliv8z.png)
+  - [Technical Support Basics](https://res.cloudinary.com/dk3bkl3ji/image/upload/v1753200020/Screenshot_2025-07-22_115957_wncbao.png)
   - [Hardware and Operating Systems](https://res.cloudinary.com/dk3bkl3ji/image/upload/v1753200527/Screenshot_2025-07-22_120806_m3rgc9.png)
 <h2> 🤳 Connect with me:</h2>
 
